@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Temporales de oficina
+~$*.docx
+*.tmp
+
+# Sistema
+.DS_Store
+Thumbs.db
